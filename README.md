@@ -4,6 +4,7 @@
 - NiM: 312410372
 - Kelas: TI 24 A3
 - [LINK FIGMA](https://www.figma.com/design/vI3l1mDOX2EaV191ndVqkD/Mobile?node-id=132-1105&t=2RdCOH3GHn301oXD-1)
+- [LINK YOUTUBE](https://youtu.be/udcK6HsRXco)
 
 ## Splashscreen dan Bahasa
 ![Gambar 1](Splashdanbahasa.png)
