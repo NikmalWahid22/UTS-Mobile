@@ -5,8 +5,8 @@
 - Kelas: TI 24 A3
 
 ## Splashscreen dan Bahasa
-![Gambar 1](Splash1.png)
-![Gambar 4](Splash1.png)
+![Gambar 1](Splashdanbahasa.png)
+![Gambar 4](UI.png)
 
 ## Storyboard 
 ![Gambar 5](Storyboard.png)
