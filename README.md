@@ -6,8 +6,6 @@
 
 ## Splashscreen dan Bahasa
 ![Gambar 1](Splash1.png)
-![Gambar 2](Splash2.png)
-![Gambar 3](Splash3.png)
 ![Gambar 4](Splash1.png)
 
 ## Storyboard 
